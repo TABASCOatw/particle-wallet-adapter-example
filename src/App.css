@@ -1,0 +1,17 @@
+.App, .button-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.App {
+  min-height: 100vh;
+}
+
+.button-container {
+  flex-direction: column;
+}
+
+.button-spacing {
+  margin-top: 15px;
+}
